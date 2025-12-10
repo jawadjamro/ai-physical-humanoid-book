@@ -1,5 +1,5 @@
 ---
-title: Module 5 - Capstone: Autonomous Humanoid Robot
+title: "Module 5 - Capstone: Autonomous Humanoid Robot"
 sidebar_label: Introduction
 ---
 
